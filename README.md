@@ -1,4 +1,4 @@
-# Class Survey Demographic Statistical Analysis and Report
+# Class Demographic Statistical Analysis and Report
 
 In this report, we conducted a statistical analysis in R on class survey results for psychological research on demographic correlations. 
 This project was completed for the final project of Harvard's course PSY 1900, which is an introduction to statistics for the behavioral sciences.
