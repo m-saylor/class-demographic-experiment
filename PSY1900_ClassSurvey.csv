@@ -1,0 +1,131 @@
+ID,age,gender,year,house,usregion,englishspk,languages,psycharea,studyhours,workouthours,tvhours,avgworkhours,wakeup,drinks,friends,partner,travelUS,travelcountry,yankredsox,phone,reading,dailyactivities_1,dailyactivities_2,dailyactivities_3,dailyactivities_4,dailyactivities_5,dailyactivities_6,dailyactivities_7,dailyactivities_8,dailyactivities_9,dailyactivities_10,dailyactivities_11,dailyactivities_12,dailyactivities_13,dailyactivities_14,dailyactivities_15,dailyactivities_16,dailyactivities_17,dailyactivities_18,dailyactivities_19,dailyactivities_20,dailyactivities_21,dailyactivities_22,superstitionYN_1,superstitionYN_2,superstitionYN_3,superstitionYN_4,superstitionLik_1,superstitionLik_2
+1,20,Female,Junior,Cabot,East,Yes,3,Clinical,10,0,0.5,12,8-10 am,0,3,Yes,6,2,Yankees,iPhone,Poetry,3,1,3,0,4,1,3,3,3,0,4,3,0,0,2,1,2,3,3,2,1,3,No,No,No,No,0,0
+2,19,Female,Sophomore,Leverett,South,Yes,2,Developmental,15,0,0,10,5-7 am,0,3,No,30,12,I don't care,iPhone,Fiction,3,1,2,0,3,0,3,3,3,0,3,4,0,0,1,4,0,4,1,3,0,4,No,No,No,No,0,0
+3,20,Female,Sophomore,Mather,East,Yes,3,Cognitive,25,7,3,20,8-10 am,3,10,Yes,18,12,I don't care,iPhone,Non-fiction,2,4,1,0,3,3,4,4,4,2,4,4,0,0,1,4,4,4,1,2,3,4,No,Yes,No,No,0,0
+4,20,Female,Junior,Dunster,West,Yes,1,Cognitive,10,10,5,15,5-7 am,5,15,No,23,8,Red Sox,iPhone,Fiction,1,0,0,2,2,1,4,2,4,4,0,1,0,0,3,0,3,1,0,3,2,4,No,Yes,No,No,0,0
+5,19,Female,Sophomore,Leverett,Midwest,No,3,Social,15,0,0,25,8-10 am,0,5,No,35,3,Red Sox,iPhone,Fiction,4,0,3,1,3,1,1,0,2,4,1,1,0,0,2,2,2,2,3,1,2,3,No,No,No,No,0,0
+6,22,Female,Other,Other,Not from the US,No,3,Clinical,5,5,1.5,10,5-7 am,2,7,No,10,14,Red Sox,iPhone,Non-fiction,0,3,1,1,3,1,3,3,3,2,2,1,2,0,4,0,2,2,1,3,2,2,No,No,No,No,0,0
+7,21,Male,Senior,Winthrop,East,Yes,1,Cognitive,15,3.5,0,20,8-10 am,20,30,No,15,6,Yankees,iPhone,Fiction,2,0,0,1,2,1,4,3,4,4,2,3,0,0,2,1,0,2,2,2,3,4,No,No,No,No,0,0
+8,20,Female,Junior,Eliot,East,Yes,2,Clinical,20,7,2,20,5-7 am,3,3,No,15,3,Red Sox,iPhone,Non-fiction,2,1,0,0,3,3,2,0,1,0,4,4,0,0,1,3,3,3,1,3,1,2,Yes,No,Yes,No,2,2
+9,19,Female,Sophomore,Winthrop,West,Yes,2,Social,5,1,0,20,8-10 am,0,4,No,,,I don't care,iPhone,Fiction,4,0,3,3,1,3,2,1,3,3,3,3,0,0,3,3,4,2,4,1,4,3,No,No,No,No,0,0
+10,21,Male,Junior,Adams,East,Yes,3,Social,5,2,2,15,5-7 am,7,2,No,15,2,Red Sox,iPhone,Fiction,0,4,0,2,1,1,0,0,0,0,4,2,0,0,0,3,2,1,1,1,1,3,No,Yes,No,No,0,0
+11,20,Female,Sophomore,Winthrop,West,Yes,1,Developmental,32,3.5,0,40,5-7 am,5,8,No,12,5,Red Sox,iPhone,Non-fiction,1,1,0,0,4,1,4,3,3,2,4,4,0,0,2,2,2,3,4,4,0,4,Yes,Yes,No,No,3,3
+12,19,Female,Sophomore,Winthrop,South,Yes,1,Social,17,3,3,15,8-10 am,6,10,No,49,9,Yankees,iPhone,Fiction,2,1,1,1,3,2,3,2,2,3,3,2,2,2,2,1,3,2,1,2,2,2,No,No,No,No,1,1
+13,20,Female,Junior,Mather,Midwest,Yes,2,Social,8,12,6,20,5-7 am,6,3,Yes,10,7,I don't care,iPhone,News,3,1,1,1,2,1,1,3,3,2,3,4,1,1,1,3,2,2,1,3,1,4,No,No,Yes,No,3,1
+14,19,Female,Sophomore,Dudley,Not from the US,No,2,Social,30,3,0,30,5-7 am,0,4,Kind of sort of,5,0,I don't care,iPhone,Fiction,0,4,0,1,3,1,2,2,1,1,4,4,4,0,1,3,2,2,1,2,0,4,Yes,No,No,No,1,3
+15,20,Female,Junior,Kirkland,East,Yes,2,Social,25,4,3,30,8-10 am,2,10,No,15,10,I don't care,iPhone,Fiction,2,1,2,2,3,2,3,4,4,2,4,1,0,0,3,3,3,3,1,3,3,3,No,No,No,No,0,0
+16,19,Female,Sophomore,Quincy,East,Yes,1,Developmental,15,5,3,18,8-10 am,6,20,Yes,13,1,Yankees,iPhone,Non-fiction,1,1,0,0,3,1,3,3,2,4,2,3,0,0,2,1,0,2,1,4,1,4,No,No,No,No,0,0
+17,19,Female,Sophomore,Currier,East,Yes,1,Cognitive,12,7,3,12,5-7 am,2,6,No,20,2,Yankees,iPhone,Fiction,3,0,2,1,3,2,3,3,3,2,2,1,0,0,1,2,2,3,1,3,2,4,Yes,No,Yes,No,4,2
+18,19,Female,Sophomore,Quincy,South,Yes,2,Clinical,18,7,3,15,5-7 am,0,4,No,6,5,I don't care,iPhone,Celebrity gossip,2,0,2,0,3,0,3,2,4,3,2,2,1,0,2,1,1,1,4,1,0,4,No,No,Yes,Yes,0,0
+19,19,Male,Sophomore,Leverett,East,No,4,Developmental,15,20,6,15,5-7 am,5,10,Kind of sort of,6,6,Red Sox,iPhone,Fiction,2,3,2,0,4,3,4,3,4,2,2,2,0,0,3,2,2,4,0,3,2,4,No,No,No,No,0,0
+20,19,Female,Sophomore,Eliot,South,Yes,2,Cognitive,20,1,0,20,8-10 am,0,10,Yes,13,26,Red Sox,iPhone,Fiction,3,1,3,1,2,2,3,2,3,3,2,1,3,2,2,2,1,3,3,2,1,3,Yes,No,No,No,2,2
+21,19,Female,Sophomore,Cabot,West,Yes,2,Social,3,3,0,5,8-10 am,10,4,No,13,4,I don't care,Android,Fiction,2,1,3,1,1,1,3,3,3,2,3,1,0,0,2,2,3,1,0,1,1,1,No,No,No,No,0,0
+22,19,Female,Sophomore,Quincy,Not from the US,No,3,Social,30,12,4,32,8-10 am,0,10,No,8,20,Red Sox,iPhone,Fiction,3,1,4,1,3,2,3,4,4,3,0,0,0,0,3,1,0,3,3,2,2,4,Yes,No,No,Yes,0,0
+23,19,Female,Sophomore,Winthrop,East,Yes,1,Social,15,5,2,15,8-10 am,10,10,No,14,4,Yankees,iPhone,Fiction,3,2,1,1,3,3,4,3,3,4,2,1,0,0,3,1,1,3,1,3,3,4,No,Yes,No,No,0,0
+24,19,Female,Sophomore,Dunster,East,No,3,Developmental,21,2,1,20,8-10 am,0,8,No,12,1,Yankees,iPhone,Fiction,3,3,3,2,2,2,4,4,4,3,3,2,4,4,3,2,3,2,2,2,2,2,Yes,Yes,No,No,2,2
+25,19,Male,Sophomore,Quincy,East,Yes,2,Developmental,15,20,1,25,8-10 am,3,10,Kind of sort of,18,10,Red Sox,iPhone,News,3,1,1,1,2,2,3,2,3,4,2,1,0,0,4,0,1,1,1,2,2,2,No,Yes,Yes,Yes,1,0
+26,19,Female,Sophomore,Quincy,West,Yes,2,Social,25,10,0,20,8-10 am,0,5,No,15,5,Red Sox,iPhone,Fiction,3,1,2,0,3,1,3,2,2,1,3,1,1,1,1,1,1,2,1,3,1,3,Yes,No,Yes,Yes,2,2
+27,22,Female,Junior,Leverett,South,No,3,Developmental,40,5,5,35,8-10 am,2,3,Yes,,,,iPhone,Fiction,3,0,1,1,2,1,3,3,3,2,4,4,0,0,1,3,4,0,3,1,1,1,No,Yes,No,No,0,1
+28,20,Male,Junior,Leverett,South,Yes,2,Cognitive,22,5,2,28,8-10 am,6,12,Yes,18,4,Red Sox,iPhone,Non-fiction,0,3,0,2,2,1,4,2,2,3,4,4,2,0,2,1,3,3,1,3,2,2,No,Yes,No,No,0,0
+29,19,Female,Sophomore,Leverett,Midwest,Yes,1,Clinical,25,5,0,20,8-10 am,1,11,No,23,21,I don't care,iPhone,Non-fiction,4,0,1,0,3,0,3,3,3,2,1,1,0,0,2,3,1,3,2,2,1,4,No,No,No,No,0,0
+30,20,Female,Junior,Mather,Midwest,No,2,Social,15,1,2,20,8-10 am,0,3,No,16,0,Red Sox,Android,Non-fiction,3,0,2,0,3,0,2,2,2,0,3,4,2,1,0,4,1,3,1,1,1,2,Yes,No,No,No,4,4
+31,18,Female,Freshman,I'm not in a house yet,East,Yes,2,Social,20,0,2,25,8-10 am,0,6,No,7,0,I don't care,iPhone,Poetry,2,2,3,4,2,1,1,3,3,3,3,1,4,1,3,1,3,1,4,2,1,2,No,No,No,No,0,0
+32,19,Male,Sophomore,Eliot,West,Yes,2,Social,10,1,0,15,8-10 am,0,1,No,6,4,I don't care,iPhone,News,4,0,2,2,2,2,0,1,2,1,4,4,1,1,1,3,1,3,3,2,3,4,No,No,No,No,0,0
+33,19,Female,Sophomore,Cabot,South,No,2,Social,7,3,3,10,8-10 am,5,10,Kind of sort of,6,11,I don't care,iPhone,Fiction,0,4,1,3,4,3,3,3,3,3,3,2,3,2,3,2,1,3,2,2,3,1,Yes,No,Yes,No,1,0
+34,20,Female,Junior,Eliot,Midwest,No,3,Cognitive,15,4,2,15,8-10 am,4,10,No,35,18,Red Sox,iPhone,Fiction,2,1,3,1,3,1,3,3,3,2,3,2,0,0,2,2,2,2,1,3,1,3,No,Yes,No,No,0,1
+35,19,Male,Sophomore,Currier,South,Yes,2,Social,15,15,4,20,8-10 am,6,7,No,17,6,Red Sox,iPhone,Fiction,2,1,0,1,2,2,2,3,4,3,2,1,1,1,3,2,3,2,2,3,1,3,Yes,No,Yes,No,2,1
+36,19,Female,Sophomore,Cabot,West,Yes,1,Clinical,21,4,8,20,8-10 am,0,7,No,10,4,Red Sox,iPhone,Fiction,3,1,3,1,3,1,2,2,2,2,2,2,2,0,2,2,3,3,0,3,2,2,Yes,No,No,No,0,0
+37,19,Female,Sophomore,Quincy,Not from the US,No,3,Other,25,5,6,30,8-10 am,6,4,No,10,7,I don't care,iPhone,Fiction,2,1,1,1,2,1,1,2,1,3,2,1,0,0,3,0,1,1,0,1,1,3,No,Yes,No,No,0,0
+38,19,Female,Sophomore,Currier,East,Yes,2,Cognitive,16,5.5,4,20,8-10 am,6,3,Yes,17,10,Red Sox,iPhone,News,1,2,1,0,4,0,4,4,4,3,4,4,0,0,2,3,2,3,3,4,2,4,No,No,No,No,0,0
+39,19,Female,Sophomore,Currier,East,No,2,Developmental,5,1,3,10,8-10 am,3,7,Kind of sort of,6,1,I don't care,iPhone,Fiction,2,3,2,4,2,3,2,1,2,1,3,4,0,0,2,2,3,2,2,3,2,3,Yes,No,No,No,2,2
+40,20,Female,Junior,Eliot,Midwest,Yes,4,Developmental,25,12,0,10,8-10 am,0,15,No,12,16,I don't care,iPhone,Fiction,3,1,1,2,3,0,4,4,3,2,2,3,3,3,2,2,4,3,1,3,1,3,No,Yes,No,Yes,0,0
+41,21,Male,Senior,Winthrop,West,Yes,2,Social,2,0,0,16,10 am - noon,0,3,No,10,3,I don't care,iPhone,Fiction,0,4,0,1,3,0,2,1,2,1,4,3,0,0,1,4,1,3,2,3,1,3,No,No,No,No,0,0
+42,21,Male,Senior,PfoHo,South,No,2,Social,10,5,5,10,5-7 am,0,7,Yes,16,10,Red Sox,iPhone,Non-fiction,1,3,0,1,3,2,3,3,3,2,3,2,0,0,1,1,3,1,1,3,2,3,No,No,No,No,0,0
+43,21,Female,Senior,Mather,West,Yes,2,Social,15,8,10,20,8-10 am,10,2,No,6,5,I don't care,iPhone,Fiction,1,1,1,1,1,1,1,1,1,1,2,2,0,0,2,1,2,1,1,2,0,2,No,Yes,No,No,1,1
+44,20,Male,Junior,Mather,South,Yes,4,Developmental,20,6,4,40,8-10 am,0,10,No,9,8,Red Sox,iPhone,Fiction,1,1,0,1,3,1,4,3,3,3,2,0,1,0,3,1,3,3,1,3,2,3,No,No,No,No,0,1
+45,20,Female,Junior,Quincy,East,No,5,Cognitive,18,4,2,24,5-7 am,0.5,7,No,26,9,Red Sox,iPhone,Fiction,2,2,1,1,3,1,3,3,3,2,4,4,0,0,1,3,1,3,2,3,1,3,No,No,No,No,0,0
+46,22,Male,Senior,Currier,Not from the US,No,4,Cognitive,40,1,0,25,10 am - noon,2,3,No,6,19,I don't care,iPhone,Non-fiction,2,1,2,2,1,4,2,1,2,3,2,2,1,0,2,2,4,3,1,4,3,3,Yes,Yes,No,No,2,0
+47,19,Female,Junior,Lowell,West,Yes,2,Developmental,30,0,15,20,8-10 am,0,4,No,12,5,I don't care,iPhone,News,4,3,1,3,3,0,3,1,4,0,3,4,0,0,2,3,3,1,2,1,2,3,No,No,No,No,0,0
+48,26,Other/Prefer not to identify,Other,Off-campus,Not from the US,Yes,1,Developmental,3,0,10,20,5-7 am,0,4,No,21,11,I don't care,iPhone,Fiction,3,2,1,0,3,2,2,1,1,0,4,4,3,2,1,4,2,2,0,4,1,4,No,No,No,No,2,1
+49,20,Female,Junior,Quincy,South,No,2,Clinical,20,2,5,25,8-10 am,0,3,No,10,5,Red Sox,iPhone,Fiction,2,0,3,1,1,0,0,1,0,2,1,3,0,0,2,0,1,1,4,2,0,3,No,No,No,No,1,1
+50,18,Female,Freshman,I'm not in a house yet,Midwest,No,3,Social,4,8,2,5,8-10 am,0,2,No,23,11,I don't care,iPhone,Fiction,1,4,2,1,2,2,2,0,0,2,4,2,0,0,2,2,1,3,3,3,4,3,No,Yes,No,No,0,0
+51,19,Female,Sophomore,Cabot,South,Yes,1,Clinical,25,8,5,30,8-10 am,2,5,No,16,15,Red Sox,iPhone,Fiction,0,1,1,2,2,3,3,2,2,3,3,2,0,0,2,1,1,3,2,3,2,3,No,Yes,No,No,1,1
+52,19,Female,Sophomore,Winthrop,South,No,2,Clinical,10,1,0,20,5-7 am,0,5,No,4,2,Red Sox,iPhone,Fiction,4,0,4,3,1,3,4,4,4,4,3,1,0,1,3,1,2,2,3,3,3,1,No,No,No,No,2,0
+53,19,Female,Sophomore,Currier,South,No,2,Other,15,0,2,20,8-10 am,2,2,Kind of sort of,17,1,I don't care,iPhone,Celebrity gossip,0,3,0,1,2,1,3,0,0,0,3,1,1,0,2,0,0,1,1,1,0,1,Yes,Yes,No,No,2,2
+54,19,Female,Sophomore,Adams,West,Yes,1,Social,10,8,0,12,5-7 am,5,7,Yes,17,11,I don't care,iPhone,Fiction,1,3,2,1,3,0,3,4,4,2,4,3,0,0,2,4,4,1,2,3,1,4,Yes,Yes,Yes,Yes,1,2
+55,22,Female,Senior,Dudley,West,Yes,2,Social,25,8,0,25,5-7 am,0,12,No,26,5,I don't care,iPhone,Fiction,2,1,4,3,1,1,1,1,0,1,3,3,0,0,1,2,3,1,4,1,1,2,Yes,No,No,No,0,1
+56,20,Female,Sophomore,Adams,West,Yes,1,Social,10,12,4,15,5-7 am,5,10,No,15,20,Red Sox,iPhone,Fiction,1,1,0,0,4,2,4,4,4,3,3,3,0,0,1,3,2,3,2,4,2,4,Yes,Yes,Yes,Yes,3,2
+57,19,Female,Sophomore,Mather,South,Yes,5,Social,13,8,6,15,8-10 am,3,2,Kind of sort of,8,4,I don't care,iPhone,Fiction,1,1,3,1,3,0,3,0,3,4,4,1,0,0,4,2,3,3,4,4,2,4,No,No,Yes,No,0,1
+58,21,Female,Senior,Winthrop,South,Yes,2,Social,5,6,4,10,8-10 am,1,4,No,17,14,I don't care,iPhone,Fiction,3,0,1,1,2,1,2,1,2,2,3,3,1,1,2,3,2,3,3,3,2,3,No,No,No,No,0,0
+59,19,Female,Sophomore,Quincy,East,Yes,1,Clinical,20,3,0,30,8-10 am,4,3,No,17,9,Red Sox,iPhone,Fiction,1,2,1,1,3,3,2,0,1,3,3,1,0,0,4,0,1,3,0,3,3,1,No,No,No,Yes,1,1
+60,20,Female,Junior,Cabot,East,Yes,1,Social,25,10,0,20,8-10 am,4,2,Yes,19,2,Red Sox,iPhone,Fiction,1,2,0,1,3,2,3,2,3,1,3,2,0,0,2,1,1,3,1,3,3,3,No,Yes,No,No,0,0
+61,20,Female,Sophomore,Adams,Not from the US,Yes,3,Clinical,10,0,2,15,10 am - noon,5,35,No,20,35,I don't care,iPhone,Celebrity gossip,1,1,0,0,4,0,4,2,3,4,1,3,0,0,4,1,1,3,4,1,1,4,No,No,No,No,2,2
+62,20,Female,Junior,Adams,East,Yes,2,Developmental,30,3,10,20,8-10 am,1,10,No,21,12,Yankees,iPhone,Celebrity gossip,3,3,4,2,4,2,1,0,1,2,2,4,1,3,2,2,2,2,1,3,2,3,Yes,No,Yes,Yes,1,1
+63,19,Female,Sophomore,Currier,Midwest,Yes,1,Cognitive,30,0,0,40,8-10 am,5,2,Kind of sort of,8,2,I don't care,iPhone,Poetry,3,1,1,3,1,2,0,1,0,1,1,4,1,0,1,3,3,2,3,1,2,2,Yes,No,Yes,Yes,4,3
+64,42,Male,Grad student,Off-campus,Not from the US,Yes,3,Developmental,2,6,0,40,5-7 am,4,1,No,20,29,I don't care,iPhone,Fiction,2,0,0,0,4,4,3,1,2,3,1,4,0,0,3,3,3,3,3,3,3,0,No,Yes,No,No,0,0
+65,21,Male,Junior,Mather,West,Yes,1,Social,8,15,3,13,8-10 am,3,4,No,33,5,Yankees,iPhone,Non-fiction,3,0,1,0,3,1,3,2,3,2,3,3,1,1,2,2,0,4,2,3,1,4,No,No,No,No,0,0
+66,19,Female,Sophomore,Cabot,West,Yes,1,Social,4,15,0,7,5-7 am,0,4,Yes,13,4,Yankees,iPhone,Fiction,3,0,1,1,1,2,2,1,4,4,4,2,4,4,4,3,1,1,3,2,3,4,Yes,No,No,No,2,2
+67,20,Female,Junior,Quincy,South,No,2,Clinical,20,2,5,25,8-10 am,0,3,No,10,5,Red Sox,iPhone,Fiction,2,0,3,1,1,0,0,1,1,2,1,3,0,0,1,1,1,1,4,2,0,3,No,No,No,No,1,1
+68,19,Female,Sophomore,Kirkland,Not from the US,Yes,2,Developmental,5,15,1,8,5-7 am,5,6,No,15,15,Red Sox,iPhone,Fiction,3,0,1,1,3,3,3,4,3,3,1,1,2,2,3,0,2,3,1,3,3,3,No,No,No,No,0,0
+69,19,Female,Sophomore,Lowell,East,Yes,1,Cognitive,14,3,7,6,5-7 am,0,3,Yes,9,6,Red Sox,iPhone,Fiction,1,3,1,0,3,2,3,3,2,0,4,4,0,0,2,4,1,3,2,2,2,3,Yes,Yes,Yes,No,2,2
+70,19,Male,Sophomore,Leverett,Midwest,No,2,Cognitive,25,20,0,15,5-7 am,0,10,Yes,40,1,Red Sox,iPhone,Non-fiction,0,3,0,0,4,0,4,3,3,2,4,0,3,2,3,2,2,3,0,4,0,4,Yes,No,Yes,No,1,1
+71,19,Female,Sophomore,Currier,East,Yes,1,,,,,,8-10 am,,,No,,,Yankees,iPhone,Fiction,3,1,3,3,1,1,3,4,2,3,1,2,3,1,3,1,2,2,3,1,3,2,No,No,,,,
+72,19,Female,Sophomore,Quincy,Not from the US,Yes,2,Social,20,3,0,22,8-10 am,0,5,No,5,7,Red Sox,iPhone,Fiction,3,1,2,1,1,2,4,3,4,3,2,3,0,0,1,2,1,2,1,2,1,3,No,No,No,No,0,0
+73,20,Male,Junior,Winthrop,East,No,4,Cognitive,15,2,5,15,8-10 am,0,4,Yes,16,1,Red Sox,iPhone,Non-fiction,2,1,3,3,4,1,3,4,1,3,3,3,2,1,2,1,3,2,1,3,1,4,No,No,No,No,0,0
+74,21,Male,Senior,Cabot,Midwest,Yes,3,Clinical,40,3,5,35,8-10 am,0,7,No,10,5,Red Sox,iPhone,Fiction,2,1,3,1,3,2,3,3,3,3,3,3,4,4,3,1,3,2,0,4,2,4,No,No,No,No,0,0
+75,20,Male,Sophomore,Currier,East,Yes,1,Social,18,6,10,30,8-10 am,9,10,Yes,10,30,I don't care,iPhone,Fiction,3,3,3,4,0,3,3,4,2,4,1,2,0,1,4,2,4,1,3,2,3,0,No,Yes,Yes,No,0,4
+76,21,Female,Sophomore,PfoHo,Not from the US,No,3,Cognitive,20,0,0,25,8-10 am,0,5,Kind of sort of,2,3,I don't care,iPhone,Poetry,2,1,3,3,1,1,0,0,1,1,3,3,1,0,1,3,1,2,3,1,1,3,No,No,Yes,No,0,1
+77,21,Female,Junior,Lowell,South,Yes,2,Other,37,10,0,40,8-10 am,0,4,No,19,2,Red Sox,iPhone,Fiction,3,0,3,4,1,3,2,2,2,3,4,3,1,1,3,3,4,1,3,2,2,2,No,Yes,No,No,1,1
+78,19,Male,Sophomore,Leverett,West,Yes,2,Cognitive,21,8,0.5,16,8-10 am,30,6,Yes,14,13,Red Sox,iPhone,Fiction,0,1,0,2,2,2,3,1,3,4,0,1,0,0,4,0,1,3,2,2,2,2,No,Yes,No,No,0,0
+79,21,Male,Sophomore,Leverett,West,Yes,2,Clinical,45,7,0,45,5-7 am,0,3,No,21,2,Red Sox,Android,Non-fiction,1,1,1,0,4,2,4,2,4,2,4,3,4,4,3,3,1,3,0,1,2,4,Yes,No,No,No,0,0
+80,20,Female,Sophomore,Mather,East,Yes,1,Developmental,17,4,0,16,8-10 am,5,12,Yes,13,12,Red Sox,iPhone,Fiction,3,1,0,1,4,0,3,3,4,4,2,3,0,0,3,2,1,3,4,4,1,4,No,No,Yes,No,1,1
+81,20,Male,Sophomore,Lowell,West,Yes,2,Social,12,10,2,15,8-10 am,2,6,No,15,1,I don't care,iPhone,Fiction,2,1,3,1,3,4,4,4,4,3,4,4,2,1,2,3,4,1,0,4,4,4,Yes,No,No,No,4,4
+82,18,Male,Freshman,I'm not in a house yet,East,Yes,1,Social,10,4,6,20,10 am - noon,5,4,No,7,5,Red Sox,iPhone,Fiction,1,3,0,2,3,1,3,1,4,4,4,2,1,1,3,1,1,3,2,3,1,3,No,No,No,No,0,0
+83,19,Male,Sophomore,Currier,Midwest,Yes,2,Cognitive,8,3,4,8,8-10 am,8,2,No,10,7,I don't care,iPhone,Non-fiction,1,2,1,0,3,3,1,2,3,4,4,2,0,0,3,1,0,4,0,4,3,2,No,No,No,No,1,1
+84,18,Female,Freshman,I'm not in a house yet,Not from the US,No,2,Social,15,3,1,15,8-10 am,0,3,Yes,11,9,I don't care,Android,Fiction,0,3,0,0,3,1,3,3,3,0,4,3,4,1,2,3,2,2,3,1,0,4,No,No,No,No,0,0
+85,20,Male,Junior,Dunster,East,Yes,2,Clinical,20,3,2,25,8-10 am,5,13,No,24,17,Red Sox,iPhone,Non-fiction,0,1,0,1,2,3,3,1,2,3,2,2,1,0,3,1,3,1,4,1,4,3,Yes,No,No,No,0,1
+86,20,Female,Junior,Kirkland,Midwest,Yes,2,Developmental,50,3.5,1,50,5-7 am,3,20,Kind of sort of,27,7,Red Sox,iPhone,Celebrity gossip,3,1,1,1,2,0,4,4,4,4,1,0,3,1,4,0,2,2,1,2,2,4,Yes,No,No,No,3,3
+87,18,Male,Sophomore,Lowell,East,Yes,2,Social,18,7,0,20,8-10 am,2,4,Kind of sort of,4,5,Yankees,iPhone,Fiction,2,2,2,3,2,3,3,4,3,3,3,3,1,0,2,2,1,2,3,3,1,4,No,No,No,No,0,0
+88,18,Female,Sophomore,PfoHo,Not from the US,Yes,3,Cognitive,30,22,3,35,5-7 am,0,10,Yes,10,20,Red Sox,iPhone,Fiction,1,1,2,1,2,4,4,3,3,3,2,2,1,1,4,1,3,2,1,2,3,4,Yes,No,No,No,3,1
+89,19,Female,Sophomore,Winthrop,Not from the US,No,3,Social,10,15,0,20,5-7 am,1,6,Yes,10,20,Red Sox,iPhone,Fiction,4,0,0,3,2,3,3,3,3,3,3,3,0,0,2,1,2,1,4,2,3,3,No,No,No,Yes,0,2
+90,20,Male,Junior,Mather,East,Yes,3,Clinical,5,3,1,10,8-10 am,0,5,Yes,16,11,Yankees,iPhone,Celebrity gossip,4,0,4,4,2,2,4,1,4,3,2,3,0,0,1,3,3,2,0,4,3,4,No,No,Yes,Yes,4,4
+91,18,Female,Freshman,Other,Not from the US,Yes,1,Social,20,15,2,30,8-10 am,2,4,Kind of sort of,2,6,I don't care,iPhone,Fiction,4,2,0,4,2,2,3,3,3,3,4,3,0,0,4,1,4,0,4,2,3,2,No,Yes,No,No,2,2
+92,20,Female,Junior,Adams,West,Yes,2,Social,8,15,2,14,8-10 am,1,10,No,13,3,I don't care,iPhone,Celebrity gossip,4,0,3,1,3,2,2,3,3,4,3,2,1,0,4,0,3,3,2,3,2,4,No,No,No,No,1,2
+93,19,Male,Sophomore,Cabot,East,Yes,4,Developmental,29,7,0,28,5-7 am,0,0,No,10,8,Red Sox,iPhone,Fiction,2,1,1,2,2,1,0,0,0,0,3,3,0,0,2,4,1,2,2,2,2,4,Yes,Yes,No,No,0,0
+94,19,Male,Sophomore,Winthrop,West,Yes,1,Social,7,10,3,15,8-10 am,7,10,No,21,11,I don't care,iPhone,Fiction,1,3,0,1,3,2,4,3,3,2,3,3,0,0,3,1,2,2,1,3,2,3,No,No,No,No,1,2
+95,18,Female,Sophomore,Lowell,West,No,2,Cognitive,25,2,1,30,8-10 am,1,5,Yes,6,4,I don't care,iPhone,Fiction,2,3,3,1,4,3,0,2,1,3,4,3,0,0,3,1,0,4,3,3,3,4,Yes,No,Yes,Yes,2,1
+96,19,Female,Sophomore,Mather,Midwest,Yes,3,Cognitive,20,5,0,15,8-10 am,0,5,No,31,2,I don't care,iPhone,Non-fiction,3,1,1,0,3,2,2,0,2,1,3,3,4,1,3,2,2,3,1,4,0,4,No,No,No,No,0,0
+97,19,Male,Sophomore,Cabot,East,Yes,1,Social,3,0,2,7,5-7 am,14,5,No,23,1,Yankees,iPhone,Fiction,2,3,0,1,3,2,0,0,0,1,2,1,0,0,3,3,2,2,2,3,2,3,No,No,No,No,0,0
+98,19,Female,Sophomore,Currier,East,Yes,2,Social,12,3,5,12,8-10 am,8,3,Yes,17,12,Yankees,iPhone,Celebrity gossip,1,2,1,0,1,0,3,2,2,3,4,2,0,0,1,1,1,1,4,1,1,3,No,Yes,No,No,0,0
+99,21,Male,Senior,Currier,East,Yes,3,Other,35,21,2,35,5-7 am,0,5,Yes,14,15,Red Sox,iPhone,Non-fiction,0,3,1,0,3,1,3,4,3,1,2,2,2,1,2,1,2,2,1,3,2,3,No,Yes,No,No,0,0
+100,19,Male,Sophomore,Adams,East,Yes,,Social,20,0,0,30,8-10 am,3,,No,15,8,I don't care,iPhone,Fiction,3,2,1,3,1,1,2,1,3,3,2,1,0,0,2,1,3,2,3,2,1,3,No,No,Yes,No,1,2
+101,20,Male,Junior,Eliot,Midwest,Yes,1,Other,15,4,9,23,8-10 am,0,2,No,15,2,I don't care,iPhone,Non-fiction,0,2,0,0,2,0,1,1,3,0,4,4,0,0,2,3,2,2,0,2,1,3,No,Yes,No,No,0,0
+102,20,Female,Junior,Eliot,East,No,3,Social,40,3,10,30,8-10 am,1,6,No,6,2,Yankees,iPhone,Fiction,1,1,1,0,2,0,1,1,1,1,2,3,1,1,2,2,1,4,3,1,0,3,No,No,No,Yes,1,1
+103,19,Male,Sophomore,Currier,East,Yes,1,Developmental,10,8,2,12,8-10 am,6,5,No,12,3,Yankees,iPhone,Fiction,0,2,0,0,4,0,4,3,3,4,2,2,1,0,1,2,1,3,1,3,0,4,Yes,No,Yes,No,3,1
+104,21,Female,Senior,Adams,West,Yes,2,Social,10,6,0,10,8-10 am,2,5,No,8,4,Red Sox,iPhone,News,1,1,1,0,3,2,2,2,3,3,2,3,1,3,2,1,0,3,1,3,1,3,Yes,No,Yes,Yes,0,0
+105,19,Male,Sophomore,Mather,East,Yes,1,Social,15,4,3,17,8-10 am,0,3,No,8,8,Yankees,iPhone,Fiction,4,4,4,4,4,4,3,2,3,2,2,2,0,0,2,2,2,2,2,4,3,3,No,No,No,No,0,0
+106,20,Male,Sophomore,Leverett,East,Yes,1,Social,22,8,2,25,10 am - noon,0,15,No,23,4,Yankees,iPhone,News,3,1,0,0,2,2,3,2,2,4,0,0,2,4,4,0,3,2,2,2,1,4,Yes,No,No,No,0,0
+107,20,Female,Junior,Leverett,West,Yes,2,Developmental,20,5,2,25,8-10 am,0,10,No,11,3,I don't care,iPhone,Fiction,2,0,2,2,2,1,3,2,2,3,3,2,3,3,3,1,3,2,2,2,2,3,Yes,Yes,No,No,0,0
+108,20,Male,Sophomore,Leverett,South,Yes,1,Social,12,2,3,14,8-10 am,0,15,No,15,0,I don't care,iPhone,Fiction,0,2,1,0,3,1,2,1,2,2,0,1,0,0,2,1,3,1,3,1,1,2,No,Yes,No,No,2,2
+109,20,Female,Junior,Quincy,Midwest,Yes,2,Social,40,2,0,40,8-10 am,0,5,No,12,1,I don't care,iPhone,Fiction,1,0,1,1,1,0,3,2,3,1,3,1,0,0,1,2,1,2,2,2,0,0,No,No,No,No,0,0
+110,19,Female,Sophomore,Mather,West,Yes,1,Social,6,9,3,8,5-7 am,2,6,Yes,10,1,Red Sox,iPhone,Non-fiction,1,1,0,1,3,1,3,3,3,3,4,3,0,0,3,1,3,1,2,2,2,4,Yes,Yes,Yes,No,3,1
+111,21,Female,Junior,Leverett,Not from the US,No,3,Developmental,42,5,5,40,8-10 am,0,3,Yes,4,13,I don't care,iPhone,Fiction,4,0,1,1,1,3,1,0,1,1,3,1,0,0,2,2,3,2,1,1,1,2,No,No,No,No,0,0
+112,20,Male,Junior,Currier,Midwest,Yes,1,Cognitive,20,7,3,20,8-10 am,4,7,Kind of sort of,39,18,Red Sox,iPhone,Fiction,0,3,1,4,2,3,1,0,0,3,2,1,0,0,2,2,3,1,2,3,4,2,No,Yes,No,No,0,0
+113,21,Female,Senior,Kirkland,South,Yes,2,Other,30,12,2,25,5-7 am,0,6,No,29,4,Red Sox,iPhone,News,3,1,1,0,3,0,3,3,3,2,3,1,3,4,3,1,3,1,1,3,1,4,No,No,No,No,0,0
+114,21,Male,Senior,Eliot,Midwest,No,3,Cognitive,20,8,0,15,10 am - noon,2,2,No,3,3,I don't care,iPhone,Non-fiction,0,4,2,1,2,2,1,0,1,3,1,2,0,0,2,1,3,2,1,2,0,3,No,Yes,No,No,0,0
+115,21,Female,Senior,PfoHo,East,Yes,3,Developmental,6,1,2,5,8-10 am,1,10,No,18,21,Red Sox,iPhone,Fiction,3,1,4,1,2,1,3,3,4,3,1,0,3,3,4,0,1,4,0,4,1,4,No,No,No,No,0,0
+116,20,Male,Junior,Currier,East,Yes,2,Clinical,20,7,0,15,8-10 am,0,2,No,10,3,I don't care,Android,Fiction,4,3,4,1,4,0,3,3,3,2,2,2,2,4,3,1,2,2,0,2,0,3,No,No,No,No,0,0
+117,19,Female,Sophomore,PfoHo,Midwest,Yes,1,Other,6,8,3,8,8-10 am,1,4,No,13,2,Red Sox,iPhone,Poetry,0,4,1,2,1,1,2,3,3,3,4,2,2,3,2,3,4,2,3,2,2,3,No,No,No,No,0,1
+118,21,Female,Junior,Winthrop,East,Yes,2,Other,15,4,0,20,8-10 am,7,3,Yes,15,15,Red Sox,iPhone,Fiction,2,1,3,3,1,3,3,3,2,2,3,3,0,0,2,2,2,2,3,1,3,1,Yes,Yes,Yes,No,2,2
+119,19,Female,Sophomore,Currier,South,Yes,2,Cognitive,40,2,3,40,8-10 am,10,15,Yes,20,5,I don't care,iPhone,Fiction,0,4,4,0,4,2,4,4,4,4,1,2,0,0,4,3,1,4,0,4,0,4,No,No,No,No,1,0
+120,19,Female,Sophomore,Winthrop,West,Yes,1,Social,10,15,0,15,8-10 am,3,10,Kind of sort of,8,4,Red Sox,iPhone,Fiction,3,3,2,1,1,3,3,0,3,4,2,1,0,0,3,2,2,2,1,3,3,4,Yes,No,Yes,No,1,0
+121,19,Male,Sophomore,Currier,East,Yes,2,Other,15,5,0,15,8-10 am,6,5,Kind of sort of,13,6,Red Sox,iPhone,Non-fiction,1,3,0,0,4,2,3,3,4,4,4,2,0,0,4,1,2,2,3,2,2,2,No,Yes,No,Yes,0,0
+122,21,Female,Junior,Winthrop,East,Yes,2,Social,15,6,2,20,5-7 am,20,8,No,12,21,Red Sox,iPhone,Fiction,2,0,3,2,2,3,1,3,1,2,3,3,0,0,2,1,2,3,2,2,3,2,No,No,Yes,Yes,1,1
+123,19,Male,Sophomore,Winthrop,West,Yes,1,Cognitive,8,10,2,25,8-10 am,20,5,No,20,2,I don't care,iPhone,Fiction,1,1,1,1,1,1,1,0,3,4,1,2,0,0,3,1,0,4,3,1,2,4,No,No,No,No,4,4
+124,20,Female,Junior,Winthrop,East,Yes,1,Social,20,18,4,20,8-10 am,8,35,No,28,8,I don't care,iPhone,Celebrity gossip,0,1,0,2,2,1,3,3,3,4,2,1,0,0,4,1,1,3,2,2,2,1,Yes,No,No,No,1,1
+125,19,Female,Sophomore,Eliot,Midwest,Yes,2,Developmental,20,2,5,25,8-10 am,1,7,No,18,7,I don't care,iPhone,Fiction,3,0,2,2,1,2,1,0,1,3,4,3,0,1,3,3,2,2,4,1,3,1,Yes,No,Yes,No,2,2
+126,21,Female,Senior,Adams,East,Yes,3,Social,24,4,0,20,5-7 am,7,5,No,35,30,I don't care,iPhone,Non-fiction,3,1,3,3,2,3,2,1,2,2,2,2,0,0,2,2,4,2,2,2,3,2,Yes,No,No,No,1,3
+127,19,Female,Sophomore,Quincy,West,Yes,1,Social,20,15,7,28,8-10 am,2,10,Yes,20,5,I don't care,iPhone,Fiction,3,1,0,2,3,3,3,2,2,3,2,3,0,0,3,2,1,3,2,2,1,3,No,No,No,No,0,0
+128,18,Female,Freshman,I'm not in a house yet,East,No,3,Clinical,21,6,4,25,8-10 am,3,4,Kind of sort of,16,12,Red Sox,iPhone,Fiction,2,1,2,3,2,1,0,0,1,1,3,4,0,0,0,4,0,4,4,3,1,4,No,No,No,No,0,0
+129,20,Female,Junior,Mather,East,No,2,Developmental,30,10,4,20,10 am - noon,10,5,Yes,4,1,Red Sox,iPhone,News,4,1,3,3,3,3,4,0,2,4,4,2,0,0,3,2,1,3,3,2,4,3,No,No,No,No,0,0
+130,21,Female,Senior,Currier,West,Yes,1,Clinical,6,0,0,10,8-10 am,,8,No,10,3,I don't care,iPhone,Poetry,4,2,2,2,3,1,3,2,2,3,3,2,2,1,2,1,3,2,3,2,2,3,No,No,No,No,1,0
