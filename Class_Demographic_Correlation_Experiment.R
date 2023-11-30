@@ -1,5 +1,5 @@
 ## Psych 1900 Final Project
-## Paulina Piwowarczyk and Madison Saylor
+##  and Madison Saylor
 ## December 11th, 2019
 ## Brian Leahy
 
