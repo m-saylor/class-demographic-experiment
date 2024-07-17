@@ -1,7 +1,7 @@
 ## Psych 1900 Final Project
-##  and Madison Saylor
+## Madison Nicole
 ## December 11th, 2019
-## Brian Leahy
+## Professor Brian Leahy
 
 ## ------------------------------- Load data -------------------------------
 
